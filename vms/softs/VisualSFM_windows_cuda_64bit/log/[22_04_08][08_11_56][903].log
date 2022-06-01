@@ -1,0 +1,50 @@
+0: et000
+image_size:	640x480
+focal_length:	660.198
+1: et001
+image_size:	640x480
+focal_length:	660.198
+2: et002
+image_size:	640x480
+focal_length:	660.198
+3: et003
+image_size:	640x480
+focal_length:	660.198
+4: et004
+image_size:	640x480
+focal_length:	660.198
+5: et005
+image_size:	640x480
+focal_length:	660.198
+6: et006
+image_size:	640x480
+focal_length:	660.198
+7: et007
+image_size:	640x480
+focal_length:	660.198
+8: et008
+image_size:	640x480
+focal_length:	660.198
+Loading image pixel data ...done in 0s
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+

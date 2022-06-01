@@ -1,0 +1,36 @@
+0: 20220407154625
+image_size:	3000x4000
+focal_length:	2888.889
+1: IMG_20220407_154052
+image_size:	3000x4000
+focal_length:	2888.889
+2: IMG_20220407_154053
+image_size:	3000x4000
+focal_length:	2888.889
+3: IMG_20220407_154054
+image_size:	3000x4000
+focal_length:	2888.889
+4: IMG_20220407_154055
+image_size:	3000x4000
+focal_length:	2888.889
+5: IMG_20220407_154057
+image_size:	3000x4000
+focal_length:	2888.889
+6: IMG_20220407_154058
+image_size:	3000x4000
+focal_length:	2888.889
+Loading image pixel data ...done in 2s
+
+Run full 3D reconstruction, begin...
+0 pairs have two-view models
+0 pairs have fundamental matrices
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 0.000 seconds used
+
+
+Compute remaining photos, begin...
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
